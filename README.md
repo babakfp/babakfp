@@ -14,7 +14,7 @@ I'm an indie JavaScript Frontend developer. All of my coding projects are built 
 - 💬 Ask me about Frontend, Svlete, TailwindCSS, SASS/SCSS and Wordpress.
 - 📫 How to reach me: [Telegram](https://t.me/babakfp), [Email](babak.bxf@gmail.com)
 
-![babakfp's Github stats](https://github-readme-stats.vercel.app/api?username=babakfp&show_icons=false&theme=cobalt&hide_title=true)
+![babakfp's Github stats](https://github-readme-stats.vercel.app/api?username=babakfp&show_icons=false&theme=cobalt&hide_title=true&border_radius=8&border_color=#75EDB2)
 
 [15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
 [20]: https://custom-icon-badges.demolab.com/badge/-Telegram-gray?style=for-the-badge&logoColor=black&logo=telegram
