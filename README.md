@@ -2,7 +2,7 @@
 
 `Digital Craftsman (Developer/Creator/Contributor)`
 
-I'm an indie JavaScript Frontend Developer. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm currently building projects with SvelteJS, NodeJS and trying out DenoJS. I have an eye for developing apps with great design and user experience. I have developed many projects on open source in many ecosystems like Svelte, VanillaJS, SASS/SCSS, Wordpress, Elementor and etc.
+I'm a indie JavaScript Frontend Developer. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm currently building projects with SvelteJS, NodeJS and trying out DenoJS. I have an eye for developing apps with great design and user experience. I have developed many projects on open source in many ecosystems like Svelte, VanillaJS, SASS/SCSS, Wordpress, Elementor and etc.
 
 [![my repos][15]](https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers)
 [![my telegram][20]](https://t.me/babakfp)
