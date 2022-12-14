@@ -4,9 +4,9 @@
 
 I'm an indie JavaScript Frontend Developer. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm currently building projects with SvelteJS, and NodeJS and trying out DenoJS. I have an eye for developing apps with great design and user experience. I have developed many projects on open source in many ecosystems like Svelte, VanillaJS, SASS/SCSS, Wordpress, Elementor and etc.
 
-[![My repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-purple?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers)
-[![My resume](https://custom-icon-badges.demolab.com/badge/-My%20Resume-gray?style=for-the-badge&logoColor=white&logo=file)](https://drive.google.com/file/d/1Ib-X7RkDUSxbSOt02-Nz7BTU-87NJt4R/view?usp=sharing)
-[![My Telegram](https://custom-icon-badges.demolab.com/badge/-My%20Telegram-blue?style=for-the-badge&logoColor=black&logo=telegram)](https://t.me/babakfp)
+[![repos](https://custom-icon-badges.demolab.com/badge/-Repos-purple?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers)
+[![resume](https://custom-icon-badges.demolab.com/badge/-Resume-gray?style=for-the-badge&logoColor=white&logo=file)](https://drive.google.com/file/d/1Ib-X7RkDUSxbSOt02-Nz7BTU-87NJt4R/view?usp=sharing)
+[![Telegram](https://custom-icon-badges.demolab.com/badge/-Telegram-blue?style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/babakfp)
 
 - 🔭 I’m currently working on documentation for [Svlete OutClick](https://github.com/babakfp/svelte-outclick) and [TailwindCSS Addons](https://github.com/babakfp/tailwindcss-addons) [DotLand](https://github.com/babakfp/dotland) and [Svelte MDX](https://github.com/babakfp/svelte-mdx)
 - 🌱 I’m currently learning TypeScript, DenoJS, and Parsing.
