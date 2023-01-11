@@ -6,7 +6,8 @@ All of my projects are built from the ground up, from planning and designing, al
 
 [![repos](https://custom-icon-badges.demolab.com/badge/-Repos-purple?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers)
 [![resume](https://custom-icon-badges.demolab.com/badge/-Resume-gray?style=for-the-badge&logoColor=white&logo=file)](https://drive.google.com/file/d/1SfKjFn55CyZ7JLV3kFO0I4Pf8_u_WL6e/view)
-[![site](https://custom-icon-badges.demolab.com/badge/-Site-gray?style=for-the-badge&logoColor=white&logo=browser)](https://babakfp.ir/)
+[![linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-gray?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/babakfp)
+[![site](https://custom-icon-badges.demolab.com/badge/-Site-gray?style=for-the-badge&logoColor=white&logo=browser)](https://babakfp.ir)
 
 - 📫 How to reach me:
   - Email: babak.bxf@gmail.com
