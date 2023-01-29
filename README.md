@@ -5,7 +5,7 @@
 All of my projects are built from the ground up, from planning and designing, all the way to building fully-functional solutions. I have built websites, open-source tools, Wordpress themes and plugins, and more. I have contributed to communities and helped people in building their applications. I have an eye on design and user experience.
 
 [![repos](https://custom-icon-badges.demolab.com/badge/-Repos-purple?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers)
-[![resume](https://custom-icon-badges.demolab.com/badge/-Resume-gray?style=for-the-badge&logoColor=white&logo=file)](https://drive.google.com/file/d/1NqnSwPQ6Ik_sfiUkNRz0PUVo348glfu5/view?usp=sharing)
+[![resume](https://custom-icon-badges.demolab.com/badge/-Resume-gray?style=for-the-badge&logoColor=white&logo=file)](https://drive.google.com/file/d/1RbDh_g_JBFsBvEHs4mL1KvoeMJkJzbbD/view?usp=sharing)
 [![linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-gray?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/babakfp)
 [![site](https://custom-icon-badges.demolab.com/badge/-Site-gray?style=for-the-badge&logoColor=white&logo=browser)](https://babakfp.ir)
 
