@@ -48,7 +48,7 @@ All of my projects are built from the ground up, from planning and design, all t
 <br>
 
 <details open>
-	<summary>Top contributed projects</summary>
+	<summary><h3>Top contributed projects</h3></summary>
 	<p>
 		<br>
 		<a href="https://github.com/sveltejs/svelte">
