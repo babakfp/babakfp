@@ -19,10 +19,10 @@ All of my projects are built from the ground up, from planning and design, all t
 
 <!-- Variables -->
 
-[resume_url]: https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers
+[resume_url]: https://drive.google.com/file/d/1X2viaPFYAvW0a5CxosVs05FuAieZPnkd/view
 [resume_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Resume-teal?style=for-the-badge&logoColor=white&logo=file
 
-[site_url]: https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers
+[site_url]: http://babakfp.ir/
 [site_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Site-f25278?style=for-the-badge&logoColor=white&logo=browser
 
 [repos_url]: https://github.com/babakfp?tab=repositories&q=&type=public&language=&sort=stargazers
@@ -36,4 +36,3 @@ All of my projects are built from the ground up, from planning and design, all t
 
 [telegram_url]: https://t.me/babakfp
 [telegram_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Email-0088cc?style=for-the-badge&logoColor=white&logo=telegram
-
