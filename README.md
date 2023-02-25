@@ -9,6 +9,37 @@ All of my projects are built from the ground up, from planning and design, all t
 [![My Site][site_badge]][site_url]
 [![My Linkedin][linkedin_badge]][linkedin_url]
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+	<a href="https://linkedin.com/in/babakfp" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/linkedin.svg" alt="html" width="48" height="48" />
+	</a>
+	<a href="https://dribbble.com/babakfp" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/dribbble.svg" alt="css" width="48" height="48" />
+	</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+	<a href="https://developer.mozilla.org/en-us/docs/web/html" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/html.svg" alt="html" width="48" height="48" />
+	</a>
+	<a href="https://developer.mozilla.org/en-us/docs/web/css" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/css.svg" alt="css" width="48" height="48" />
+	</a>
+	<a href="https://developer.mozilla.org/en-us/docs/web/javascript" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/javascript.svg" alt="javascript" width="48" height="48" />
+	</a>
+	<a href="https://svelte.dev" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/svelte.svg" alt="svelte" width="48" height="48" />
+	</a>
+	<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+		<img src="https://github-profile-assets.vercel.app/tailwindcss.svg" alt="svelte" width="48" height="48" />
+	</a>
+</p>
+
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
@@ -33,8 +64,11 @@ All of my projects are built from the ground up, from planning and design, all t
 [![My Email][email_badge]][email_url]
 [![My Telegram][telegram_badge]][telegram_url]
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=babakfp&show_icons=false&theme=cobalt&hide_title=true&border_radius=8&border_color=#75EDB2)](#)
 
-![babakfp's Github stats](https://github-readme-stats.vercel.app/api?username=babakfp&show_icons=false&theme=cobalt&hide_title=true&border_radius=8&border_color=#75EDB2)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=babakfp&show_icons=true&locale=en&layout=compact)](#)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=babakfp&theme=dark&hide_border=true&border_radius=6)](#)
 
 <!-- Variables -->
 
