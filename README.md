@@ -35,4 +35,5 @@ All of my projects are built from the ground up, from planning and design, all t
 [email_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Email-ea4335?style=for-the-badge&logoColor=white&logo=email
 
 [telegram_url]: https://t.me/babakfp
-[telegram_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Email-0088cc?style=for-the-badge&logoColor=white&logo=telegram
+[telegram_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Telegram-0088cc?style=for-the-badge&logoColor=white&logo=telegram
+
