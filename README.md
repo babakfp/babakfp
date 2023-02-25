@@ -31,7 +31,7 @@ All of my projects are built from the ground up, from planning and design, all t
 [linkedin_url]: https://www.linkedin.com/in/babakfp
 [linkedin_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Linkedin-0a66c2?style=for-the-badge&logoColor=white&logo=linkedin
 
-[email_url]: babak.bxf@gmail.com
+[email_url]: mailto:babak.bxf@gmail.com
 [email_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Email-ea4335?style=for-the-badge&logoColor=white&logo=email
 
 [telegram_url]: https://t.me/babakfp
