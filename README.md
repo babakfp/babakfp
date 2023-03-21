@@ -95,7 +95,7 @@ All of my projects are built from the ground up, from planning and design, all t
 
 <!-- Variables -->
 
-[resume_url]: https://drive.google.com/file/d/1m0ZPGaJSSdTd0vhl_XVJXJdrWFFykqjC/view?usp=sharing
+[resume_url]: https://drive.google.com/file/d/1MYHJoaUqJgq1PypNhPeRLQRs_VZhA9yx/view?usp=sharing
 [resume_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Resume-teal?style=for-the-badge&logoColor=white&logo=file
 
 [site_url]: http://babakfp.ir
