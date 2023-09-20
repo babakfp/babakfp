@@ -83,17 +83,9 @@ All of my projects are built from the ground up, from planning and design, all t
 <br>
 
 <p>
-	<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=babakfp&theme=dracula&hide_border=true&border_radius=6">
-</p>
-
-<p>
 	<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=babakfp&show_icons=false&theme=dracula&hide_title=true&border_radius=6&hide_border=true">
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=babakfp&show_icons=true&locale=en&layout=compact&theme=dracula&border_radius=6&hide_border=true">
 </p>
-
-[![GitHub Streak](https://github-readme-activity-graph.cyclic.app/graph/?username=babakfp&bg_color=1F222E&color=F8D866&line=e5668b&point=fff&hide_border=true)](#)
-
-<!-- Variables -->
 
 [resume_url]: https://drive.google.com/file/d/1ajeHKoGuGkbYU6R8k2TS2WlCCQe6Ao-B/view?usp=sharing
 [resume_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Resume-teal?style=for-the-badge&logoColor=white&logo=file
