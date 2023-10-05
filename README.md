@@ -87,7 +87,7 @@ All of my projects are built from the ground up, from planning and design, all t
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=babakfp&show_icons=true&locale=en&layout=compact&theme=dracula&border_radius=6&hide_border=true">
 </p>
 
-[resume_url]: https://drive.google.com/file/d/1e1yKxgndyUVkN8Gl8DZ8drHWun9vITOh/view?usp=sharing
+[resume_url]: https://drive.google.com/file/d/1_I82ScIpedUuEYEo6cvfjRG1GJbaUUEB/view?usp=sharing
 [resume_badge]: https://custom-icon-badges.demolab.com/badge/-My%20Resume-teal?style=for-the-badge&logoColor=white&logo=file
 
 [site_url]: http://babakfp.ir
