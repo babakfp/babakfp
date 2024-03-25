@@ -48,7 +48,6 @@
 
 <p>
 	<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=babakfp&theme=algolia&hide_title=true&border_radius=6&hide_border=true">
-	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=babakfp&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=6&hide_border=true">
 </p>
 
 [resumeUrl]: https://drive.google.com/file/d/1_I82ScIpedUuEYEo6cvfjRG1GJbaUUEB/view?usp=sharing
