@@ -18,25 +18,25 @@
 
 <p>
 	<a href="https://github.com/sveltejs/svelte">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sveltejs&repo=svelte&theme=apprentice&show_description=false" alt="sveltejs/svelte">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sveltejs&repo=svelte&theme=apprentice&show_description=false&border_radius=6&hide_border=true" alt="sveltejs/svelte">
 	</a>
 	<a href="https://github.com/wobsoriano/svelte-sonner">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wobsoriano&repo=svelte-sonner&theme=apprentice&show_description=false" alt="wobsoriano/svelte-sonner">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wobsoriano&repo=svelte-sonner&theme=apprentice&show_description=false&border_radius=6&hide_border=true" alt="wobsoriano/svelte-sonner">
 	</a>
 	<a href="https://github.com/huntabyte/shadcn-svelte">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huntabyte&repo=shadcn-svelte&theme=apprentice&show_description=false" alt="huntabyte/shadcn-svelte">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huntabyte&repo=shadcn-svelte&theme=apprentice&show_description=false&border_radius=6&hide_border=true" alt="huntabyte/shadcn-svelte">
 	</a>
 	<a href="https://github.com/melt-ui/melt-ui">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melt-ui&repo=melt-ui&theme=apprentice&show_description=false" alt="melt-ui/melt-ui">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melt-ui&repo=melt-ui&theme=apprentice&show_description=false&border_radius=6&hide_border=true" alt="melt-ui/melt-ui">
 	</a>
 	<a href="https://github.com/nolimits4web/swiper">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nolimits4web&repo=swiper&theme=apprentice&show_description=false" alt="nolimits4web/swiper">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nolimits4web&repo=swiper&theme=apprentice&show_description=false&border_radius=6&hide_border=true" alt="nolimits4web/swiper">
 	</a>
 	<a href="https://github.com/files-community/website">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=files-community&repo=website&theme=apprentice&show_description=false&show_owner=true" alt="files-community/website">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=files-community&repo=website&theme=apprentice&show_description=false&border_radius=6&hide_border=true&show_owner=true" alt="files-community/website">
 	</a>
 	<a href="https://github.com/material-theme/vsc-material-theme-icons">
-		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=material-theme&repo=vsc-material-theme-icons&theme=apprentice&show_description=false" alt="material-theme/vsc-material-theme-icons">
+		<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=material-theme&repo=vsc-material-theme-icons&theme=apprentice&show_description=false&border_radius=6&hide_border=true" alt="material-theme/vsc-material-theme-icons">
 	</a>
 </p>
 
